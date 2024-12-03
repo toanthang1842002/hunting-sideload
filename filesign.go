@@ -68,6 +68,7 @@ func (self SigCheckPlugin) Call(
 
 		// Create the command to run sigcheck with JSON output
 		cmd := exec.CommandContext(ctx, sigcheckPath, "-nobanner", "-accepteula", "-h", "-u", "-s", filePath)
+		scope.Log("execute command")
 		output, err := cmd.CombinedOutput()
 		lines := strings.Split(string(output), "\n")
 		output_parse := &SignatureInfo{}
@@ -77,6 +78,7 @@ func (self SigCheckPlugin) Call(
 			if strings.HasPrefix(strings.ToLower(line), "c:") && output_parse.MD5 != "" {
 				signatureInfos = append(signatureInfos, *output_parse)
 				output_parse = &SignatureInfo{}
+				scope.Log("Initialized output_parse: %v", output_parse)
 			}
 			if strings.Contains(line, ":") {
 				parts := strings.Split(line, ":")
