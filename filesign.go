@@ -78,7 +78,7 @@ func (self SigCheckPlugin) Call(
 			if strings.HasPrefix(strings.ToLower(line), "c:") && output_parse.MD5 != "" {
 				signatureInfos = append(signatureInfos, *output_parse)
 				output_parse = &SignatureInfo{}
-				scope.Log("Initialized output_parse: %v", output_parse)
+				scope.Log("Initialized output_parse: %s", output_parse.Name)
 			}
 			if strings.Contains(line, ":") {
 				parts := strings.Split(line, ":")
