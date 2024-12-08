@@ -1,0 +1,2078 @@
+[
+    {
+        "name": "acrodistdll.yml",
+        "path": "3rd_party\\adobe\\acrodistdll.yml"
+    },
+    {
+        "name": "sqlite.yml",
+        "path": "3rd_party\\adobe\\sqlite.yml"
+    },
+    {
+        "name": "vcomp100.yml",
+        "path": "3rd_party\\adobe\\vcomp100.yml"
+    },
+    {
+        "name": "amindpdfcore.yml",
+        "path": "3rd_party\\amindpdf\\amindpdfcore.yml"
+    },
+    {
+        "name": "avdevice-54.yml",
+        "path": "3rd_party\\anymp4\\avdevice-54.yml"
+    },
+    {
+        "name": "corefoundation.yml",
+        "path": "3rd_party\\apple\\corefoundation.yml"
+    },
+    {
+        "name": "asio.yml",
+        "path": "3rd_party\\asus\\asio.yml"
+    },
+    {
+        "name": "asus_wmi.yml",
+        "path": "3rd_party\\asus\\asus_wmi.yml"
+    },
+    {
+        "name": "vender.yml",
+        "path": "3rd_party\\asus\\vender.yml"
+    },
+    {
+        "name": "wsc.yml",
+        "path": "3rd_party\\avast\\wsc.yml"
+    },
+    {
+        "name": "basicnetutils.yml",
+        "path": "3rd_party\\baidu\\basicnetutils.yml"
+    },
+    {
+        "name": "log.yml",
+        "path": "3rd_party\\bitdefender\\log.yml"
+    },
+    {
+        "name": "calibre-launcher.yml",
+        "path": "3rd_party\\calibre\\calibre-launcher.yml"
+    },
+    {
+        "name": "relay.yml",
+        "path": "3rd_party\\canon\\relay.yml"
+    },
+    {
+        "name": "ciscosparklauncher.yml",
+        "path": "3rd_party\\cisco\\ciscosparklauncher.yml"
+    },
+    {
+        "name": "wcldll.yml",
+        "path": "3rd_party\\cisco\\wcldll.yml"
+    },
+    {
+        "name": "classicexplorer32.yml",
+        "path": "3rd_party\\classicshell\\classicexplorer32.yml"
+    },
+    {
+        "name": "libcurl.yml",
+        "path": "3rd_party\\curl\\libcurl.yml"
+    },
+    {
+        "name": "vftrace.yml",
+        "path": "3rd_party\\cyberark\\vftrace.yml"
+    },
+    {
+        "name": "ci.yml",
+        "path": "3rd_party\\digiarty\\ci.yml"
+    },
+    {
+        "name": "goopdate.yml",
+        "path": "3rd_party\\dropbox\\goopdate.yml"
+    },
+    {
+        "name": "qt5core.yml",
+        "path": "3rd_party\\electronicarts\\qt5core.yml"
+    },
+    {
+        "name": "qrt.yml",
+        "path": "3rd_party\\f-secure\\qrt.yml"
+    },
+    {
+        "name": "fnp_act_installer.yml",
+        "path": "3rd_party\\flexera\\fnp_act_installer.yml"
+    },
+    {
+        "name": "badata_x64.yml",
+        "path": "3rd_party\\glorylogic\\badata_x64.yml"
+    },
+    {
+        "name": "chrome_frame_helper.yml",
+        "path": "3rd_party\\google\\chrome_frame_helper.yml"
+    },
+    {
+        "name": "iepdf32.yml",
+        "path": "3rd_party\\handysoftware\\iepdf32.yml"
+    },
+    {
+        "name": "hpcustpartui.yml",
+        "path": "3rd_party\\hp\\hpcustpartui.yml"
+    },
+    {
+        "name": "hpqhvsei.yml",
+        "path": "3rd_party\\hp\\hpqhvsei.yml"
+    },
+    {
+        "name": "liteskinutils.yml",
+        "path": "3rd_party\\icq\\liteskinutils.yml"
+    },
+    {
+        "name": "skinutils.yml",
+        "path": "3rd_party\\icq\\skinutils.yml"
+    },
+    {
+        "name": "register.yml",
+        "path": "3rd_party\\iobit\\register.yml"
+    },
+    {
+        "name": "rtl120.yml",
+        "path": "3rd_party\\itop\\rtl120.yml"
+    },
+    {
+        "name": "webui.yml",
+        "path": "3rd_party\\itop\\webui.yml"
+    },
+    {
+        "name": "krpt.yml",
+        "path": "3rd_party\\kingsoft\\krpt.yml"
+    },
+    {
+        "name": "commfunc.yml",
+        "path": "3rd_party\\lenovo\\commfunc.yml"
+    },
+    {
+        "name": "quickdeskband.yml",
+        "path": "3rd_party\\lenovo\\quickdeskband.yml"
+    },
+    {
+        "name": "lmiguardiandll.yml",
+        "path": "3rd_party\\logmein\\lmiguardiandll.yml"
+    },
+    {
+        "name": "facesdk.yml",
+        "path": "3rd_party\\luxand\\facesdk.yml"
+    },
+    {
+        "name": "ashldres.yml",
+        "path": "3rd_party\\mcafee\\ashldres.yml"
+    },
+    {
+        "name": "lockdown.yml",
+        "path": "3rd_party\\mcafee\\lockdown.yml"
+    },
+    {
+        "name": "mcutil.yml",
+        "path": "3rd_party\\mcafee\\mcutil.yml"
+    },
+    {
+        "name": "siteadv.yml",
+        "path": "3rd_party\\mcafee\\siteadv.yml"
+    },
+    {
+        "name": "vsodscpl.yml",
+        "path": "3rd_party\\mcafee\\vsodscpl.yml"
+    },
+    {
+        "name": "mediainfo_i386.yml",
+        "path": "3rd_party\\mediainfo\\mediainfo_i386.yml"
+    },
+    {
+        "name": "libxfont-1.yml",
+        "path": "3rd_party\\mobatek\\libxfont-1.yml"
+    },
+    {
+        "name": "mozglue.yml",
+        "path": "3rd_party\\mozilla\\mozglue.yml"
+    },
+    {
+        "name": "mimetools.yml",
+        "path": "3rd_party\\notepad++\\mimetools.yml"
+    },
+    {
+        "name": "providers.yml",
+        "path": "3rd_party\\npm\\providers.yml"
+    },
+    {
+        "name": "libcef.yml",
+        "path": "3rd_party\\nvidia\\libcef.yml"
+    },
+    {
+        "name": "nvsmartmax.yml",
+        "path": "3rd_party\\nvidia\\nvsmartmax.yml"
+    },
+    {
+        "name": "opera_elf.yml",
+        "path": "3rd_party\\opera\\opera_elf.yml"
+    },
+    {
+        "name": "qtcorevbox4.yml",
+        "path": "3rd_party\\oracle\\qtcorevbox4.yml"
+    },
+    {
+        "name": "vboxrt.yml",
+        "path": "3rd_party\\oracle\\vboxrt.yml"
+    },
+    {
+        "name": "winutils.yml",
+        "path": "3rd_party\\paloalto\\winutils.yml"
+    },
+    {
+        "name": "libeay32.yml",
+        "path": "3rd_party\\pspad\\libeay32.yml"
+    },
+    {
+        "name": "python310.yml",
+        "path": "3rd_party\\python\\python310.yml"
+    },
+    {
+        "name": "python311.yml",
+        "path": "3rd_party\\python\\python311.yml"
+    },
+    {
+        "name": "python39.yml",
+        "path": "3rd_party\\python\\python39.yml"
+    },
+    {
+        "name": "keyscramblerie.yml",
+        "path": "3rd_party\\qfx\\keyscramblerie.yml"
+    },
+    {
+        "name": "rzlog4cpp_logger.yml",
+        "path": "3rd_party\\razer\\rzlog4cpp_logger.yml"
+    },
+    {
+        "name": "smadhook32c.yml",
+        "path": "3rd_party\\smadav\\smadhook32c.yml"
+    },
+    {
+        "name": "sqlite.yml",
+        "path": "3rd_party\\softperfect\\sqlite.yml"
+    },
+    {
+        "name": "safestore32.yml",
+        "path": "3rd_party\\sophos\\safestore32.yml"
+    },
+    {
+        "name": "ldvpocx.yml",
+        "path": "3rd_party\\symantec\\ldvpocx.yml"
+    },
+    {
+        "name": "rastls.yml",
+        "path": "3rd_party\\symantec\\rastls.yml"
+    },
+    {
+        "name": "shellsel.yml",
+        "path": "3rd_party\\symantec\\shellsel.yml"
+    },
+    {
+        "name": "tpsvc.yml",
+        "path": "3rd_party\\thinprint\\tpsvc.yml"
+    },
+    {
+        "name": "tosbtkbd.yml",
+        "path": "3rd_party\\toshiba\\tosbtkbd.yml"
+    },
+    {
+        "name": "tmdbglog.yml",
+        "path": "3rd_party\\trendmicro\\tmdbglog.yml"
+    },
+    {
+        "name": "tmtap.yml",
+        "path": "3rd_party\\trendmicro\\tmtap.yml"
+    },
+    {
+        "name": "utiluniclient.yml",
+        "path": "3rd_party\\trendmicro\\utiluniclient.yml"
+    },
+    {
+        "name": "unityplayer.yml",
+        "path": "3rd_party\\unity\\unityplayer.yml"
+    },
+    {
+        "name": "vstdlib_s64.yml",
+        "path": "3rd_party\\valve\\vstdlib_s64.yml"
+    },
+    {
+        "name": "vntfxf32.yml",
+        "path": "3rd_party\\ventafax\\vntfxf32.yml"
+    },
+    {
+        "name": "vivaldi_elf.yml",
+        "path": "3rd_party\\vivaldi\\vivaldi_elf.yml"
+    },
+    {
+        "name": "libvlc.yml",
+        "path": "3rd_party\\vlc\\libvlc.yml"
+    },
+    {
+        "name": "libvlccore.yml",
+        "path": "3rd_party\\vlc\\libvlccore.yml"
+    },
+    {
+        "name": "glib-2.0.yml",
+        "path": "3rd_party\\vmware\\glib-2.0.yml"
+    },
+    {
+        "name": "shfolder.yml",
+        "path": "3rd_party\\vmware\\shfolder.yml"
+    },
+    {
+        "name": "vmtools.yml",
+        "path": "3rd_party\\vmware\\vmtools.yml"
+    },
+    {
+        "name": "avutil.yml",
+        "path": "3rd_party\\vsosoftware\\avutil.yml"
+    },
+    {
+        "name": "libglib-2.0-0.yml",
+        "path": "3rd_party\\wireshark\\libglib-2.0-0.yml"
+    },
+    {
+        "name": "libwsutil.yml",
+        "path": "3rd_party\\wireshark\\libwsutil.yml"
+    },
+    {
+        "name": "x32bridge.yml",
+        "path": "3rd_party\\x64dbg\\x32bridge.yml"
+    },
+    {
+        "name": "atl71.yml",
+        "path": "3rd_party\\xunlei\\atl71.yml"
+    },
+    {
+        "name": "zlibwapi.yml",
+        "path": "3rd_party\\zlib\\zlibwapi.yml"
+    },
+    {
+        "name": "aclui.yml",
+        "path": "microsoft\\built-in\\aclui.yml"
+    },
+    {
+        "name": "activeds.yml",
+        "path": "microsoft\\built-in\\activeds.yml"
+    },
+    {
+        "name": "adsldpc.yml",
+        "path": "microsoft\\built-in\\adsldpc.yml"
+    },
+    {
+        "name": "aepic.yml",
+        "path": "microsoft\\built-in\\aepic.yml"
+    },
+    {
+        "name": "apphelp.yml",
+        "path": "microsoft\\built-in\\apphelp.yml"
+    },
+    {
+        "name": "applicationframe.yml",
+        "path": "microsoft\\built-in\\applicationframe.yml"
+    },
+    {
+        "name": "appvpolicy.yml",
+        "path": "microsoft\\built-in\\appvpolicy.yml"
+    },
+    {
+        "name": "appwiz.yml",
+        "path": "microsoft\\built-in\\appwiz.yml"
+    },
+    {
+        "name": "appxalluserstore.yml",
+        "path": "microsoft\\built-in\\appxalluserstore.yml"
+    },
+    {
+        "name": "appxdeploymentclient.yml",
+        "path": "microsoft\\built-in\\appxdeploymentclient.yml"
+    },
+    {
+        "name": "archiveint.yml",
+        "path": "microsoft\\built-in\\archiveint.yml"
+    },
+    {
+        "name": "atl.yml",
+        "path": "microsoft\\built-in\\atl.yml"
+    },
+    {
+        "name": "audioses.yml",
+        "path": "microsoft\\built-in\\audioses.yml"
+    },
+    {
+        "name": "auditpolcore.yml",
+        "path": "microsoft\\built-in\\auditpolcore.yml"
+    },
+    {
+        "name": "authfwcfg.yml",
+        "path": "microsoft\\built-in\\authfwcfg.yml"
+    },
+    {
+        "name": "authz.yml",
+        "path": "microsoft\\built-in\\authz.yml"
+    },
+    {
+        "name": "avrt.yml",
+        "path": "microsoft\\built-in\\avrt.yml"
+    },
+    {
+        "name": "batmeter.yml",
+        "path": "microsoft\\built-in\\batmeter.yml"
+    },
+    {
+        "name": "bcd.yml",
+        "path": "microsoft\\built-in\\bcd.yml"
+    },
+    {
+        "name": "bcp47langs.yml",
+        "path": "microsoft\\built-in\\bcp47langs.yml"
+    },
+    {
+        "name": "bcp47mrm.yml",
+        "path": "microsoft\\built-in\\bcp47mrm.yml"
+    },
+    {
+        "name": "bcrypt.yml",
+        "path": "microsoft\\built-in\\bcrypt.yml"
+    },
+    {
+        "name": "bderepair.yml",
+        "path": "microsoft\\built-in\\bderepair.yml"
+    },
+    {
+        "name": "bootmenuux.yml",
+        "path": "microsoft\\built-in\\bootmenuux.yml"
+    },
+    {
+        "name": "bootux.yml",
+        "path": "microsoft\\built-in\\bootux.yml"
+    },
+    {
+        "name": "cabinet.yml",
+        "path": "microsoft\\built-in\\cabinet.yml"
+    },
+    {
+        "name": "cabview.yml",
+        "path": "microsoft\\built-in\\cabview.yml"
+    },
+    {
+        "name": "cdpsgshims.yml",
+        "path": "microsoft\\built-in\\cdpsgshims.yml"
+    },
+    {
+        "name": "certcli.yml",
+        "path": "microsoft\\built-in\\certcli.yml"
+    },
+    {
+        "name": "certenroll.yml",
+        "path": "microsoft\\built-in\\certenroll.yml"
+    },
+    {
+        "name": "cfgmgr32.yml",
+        "path": "microsoft\\built-in\\cfgmgr32.yml"
+    },
+    {
+        "name": "cldapi.yml",
+        "path": "microsoft\\built-in\\cldapi.yml"
+    },
+    {
+        "name": "clipc.yml",
+        "path": "microsoft\\built-in\\clipc.yml"
+    },
+    {
+        "name": "clusapi.yml",
+        "path": "microsoft\\built-in\\clusapi.yml"
+    },
+    {
+        "name": "cmpbk32.yml",
+        "path": "microsoft\\built-in\\cmpbk32.yml"
+    },
+    {
+        "name": "cmutil.yml",
+        "path": "microsoft\\built-in\\cmutil.yml"
+    },
+    {
+        "name": "coloradapterclient.yml",
+        "path": "microsoft\\built-in\\coloradapterclient.yml"
+    },
+    {
+        "name": "colorui.yml",
+        "path": "microsoft\\built-in\\colorui.yml"
+    },
+    {
+        "name": "comdlg32.yml",
+        "path": "microsoft\\built-in\\comdlg32.yml"
+    },
+    {
+        "name": "configmanager2.yml",
+        "path": "microsoft\\built-in\\configmanager2.yml"
+    },
+    {
+        "name": "connect.yml",
+        "path": "microsoft\\built-in\\connect.yml"
+    },
+    {
+        "name": "coredplus.yml",
+        "path": "microsoft\\built-in\\coredplus.yml"
+    },
+    {
+        "name": "coremessaging.yml",
+        "path": "microsoft\\built-in\\coremessaging.yml"
+    },
+    {
+        "name": "coreuicomponents.yml",
+        "path": "microsoft\\built-in\\coreuicomponents.yml"
+    },
+    {
+        "name": "credui.yml",
+        "path": "microsoft\\built-in\\credui.yml"
+    },
+    {
+        "name": "cryptbase.yml",
+        "path": "microsoft\\built-in\\cryptbase.yml"
+    },
+    {
+        "name": "cryptdll.yml",
+        "path": "microsoft\\built-in\\cryptdll.yml"
+    },
+    {
+        "name": "cryptnet.yml",
+        "path": "microsoft\\built-in\\cryptnet.yml"
+    },
+    {
+        "name": "cryptsp.yml",
+        "path": "microsoft\\built-in\\cryptsp.yml"
+    },
+    {
+        "name": "cryptui.yml",
+        "path": "microsoft\\built-in\\cryptui.yml"
+    },
+    {
+        "name": "cryptxml.yml",
+        "path": "microsoft\\built-in\\cryptxml.yml"
+    },
+    {
+        "name": "cscapi.yml",
+        "path": "microsoft\\built-in\\cscapi.yml"
+    },
+    {
+        "name": "cscobj.yml",
+        "path": "microsoft\\built-in\\cscobj.yml"
+    },
+    {
+        "name": "cscui.yml",
+        "path": "microsoft\\built-in\\cscui.yml"
+    },
+    {
+        "name": "d2d1.yml",
+        "path": "microsoft\\built-in\\d2d1.yml"
+    },
+    {
+        "name": "d3d10.yml",
+        "path": "microsoft\\built-in\\d3d10.yml"
+    },
+    {
+        "name": "d3d10core.yml",
+        "path": "microsoft\\built-in\\d3d10core.yml"
+    },
+    {
+        "name": "d3d10warp.yml",
+        "path": "microsoft\\built-in\\d3d10warp.yml"
+    },
+    {
+        "name": "d3d10_1.yml",
+        "path": "microsoft\\built-in\\d3d10_1.yml"
+    },
+    {
+        "name": "d3d10_1core.yml",
+        "path": "microsoft\\built-in\\d3d10_1core.yml"
+    },
+    {
+        "name": "d3d11.yml",
+        "path": "microsoft\\built-in\\d3d11.yml"
+    },
+    {
+        "name": "d3d12.yml",
+        "path": "microsoft\\built-in\\d3d12.yml"
+    },
+    {
+        "name": "d3d9.yml",
+        "path": "microsoft\\built-in\\d3d9.yml"
+    },
+    {
+        "name": "d3dcompiler_47.yml",
+        "path": "microsoft\\built-in\\d3dcompiler_47.yml"
+    },
+    {
+        "name": "d3dx9_43.yml",
+        "path": "microsoft\\built-in\\d3dx9_43.yml"
+    },
+    {
+        "name": "dataexchange.yml",
+        "path": "microsoft\\built-in\\dataexchange.yml"
+    },
+    {
+        "name": "davclnt.yml",
+        "path": "microsoft\\built-in\\davclnt.yml"
+    },
+    {
+        "name": "dbgcore.yml",
+        "path": "microsoft\\built-in\\dbgcore.yml"
+    },
+    {
+        "name": "dbghelp.yml",
+        "path": "microsoft\\built-in\\dbghelp.yml"
+    },
+    {
+        "name": "dbgmodel.yml",
+        "path": "microsoft\\built-in\\dbgmodel.yml"
+    },
+    {
+        "name": "dcntel.yml",
+        "path": "microsoft\\built-in\\dcntel.yml"
+    },
+    {
+        "name": "dcomp.yml",
+        "path": "microsoft\\built-in\\dcomp.yml"
+    },
+    {
+        "name": "defragproxy.yml",
+        "path": "microsoft\\built-in\\defragproxy.yml"
+    },
+    {
+        "name": "desktopshellext.yml",
+        "path": "microsoft\\built-in\\desktopshellext.yml"
+    },
+    {
+        "name": "deviceassociation.yml",
+        "path": "microsoft\\built-in\\deviceassociation.yml"
+    },
+    {
+        "name": "devicecredential.yml",
+        "path": "microsoft\\built-in\\devicecredential.yml"
+    },
+    {
+        "name": "devicepairing.yml",
+        "path": "microsoft\\built-in\\devicepairing.yml"
+    },
+    {
+        "name": "devobj.yml",
+        "path": "microsoft\\built-in\\devobj.yml"
+    },
+    {
+        "name": "devrtl.yml",
+        "path": "microsoft\\built-in\\devrtl.yml"
+    },
+    {
+        "name": "dhcpcmonitor.yml",
+        "path": "microsoft\\built-in\\dhcpcmonitor.yml"
+    },
+    {
+        "name": "dhcpcsvc.yml",
+        "path": "microsoft\\built-in\\dhcpcsvc.yml"
+    },
+    {
+        "name": "dhcpcsvc6.yml",
+        "path": "microsoft\\built-in\\dhcpcsvc6.yml"
+    },
+    {
+        "name": "directmanipulation.yml",
+        "path": "microsoft\\built-in\\directmanipulation.yml"
+    },
+    {
+        "name": "dismapi.yml",
+        "path": "microsoft\\built-in\\dismapi.yml"
+    },
+    {
+        "name": "dismcore.yml",
+        "path": "microsoft\\built-in\\dismcore.yml"
+    },
+    {
+        "name": "dmcfgutils.yml",
+        "path": "microsoft\\built-in\\dmcfgutils.yml"
+    },
+    {
+        "name": "dmcmnutils.yml",
+        "path": "microsoft\\built-in\\dmcmnutils.yml"
+    },
+    {
+        "name": "dmcommandlineutils.yml",
+        "path": "microsoft\\built-in\\dmcommandlineutils.yml"
+    },
+    {
+        "name": "dmenrollengine.yml",
+        "path": "microsoft\\built-in\\dmenrollengine.yml"
+    },
+    {
+        "name": "dmenterprisediagnostics.yml",
+        "path": "microsoft\\built-in\\dmenterprisediagnostics.yml"
+    },
+    {
+        "name": "dmiso8601utils.yml",
+        "path": "microsoft\\built-in\\dmiso8601utils.yml"
+    },
+    {
+        "name": "dmoleaututils.yml",
+        "path": "microsoft\\built-in\\dmoleaututils.yml"
+    },
+    {
+        "name": "dmprocessxmlfiltered.yml",
+        "path": "microsoft\\built-in\\dmprocessxmlfiltered.yml"
+    },
+    {
+        "name": "dmpushproxy.yml",
+        "path": "microsoft\\built-in\\dmpushproxy.yml"
+    },
+    {
+        "name": "dmxmlhelputils.yml",
+        "path": "microsoft\\built-in\\dmxmlhelputils.yml"
+    },
+    {
+        "name": "dnsapi.yml",
+        "path": "microsoft\\built-in\\dnsapi.yml"
+    },
+    {
+        "name": "dot3api.yml",
+        "path": "microsoft\\built-in\\dot3api.yml"
+    },
+    {
+        "name": "dot3cfg.yml",
+        "path": "microsoft\\built-in\\dot3cfg.yml"
+    },
+    {
+        "name": "dpx.yml",
+        "path": "microsoft\\built-in\\dpx.yml"
+    },
+    {
+        "name": "drprov.yml",
+        "path": "microsoft\\built-in\\drprov.yml"
+    },
+    {
+        "name": "drvstore.yml",
+        "path": "microsoft\\built-in\\drvstore.yml"
+    },
+    {
+        "name": "dsclient.yml",
+        "path": "microsoft\\built-in\\dsclient.yml"
+    },
+    {
+        "name": "dsparse.yml",
+        "path": "microsoft\\built-in\\dsparse.yml"
+    },
+    {
+        "name": "dsprop.yml",
+        "path": "microsoft\\built-in\\dsprop.yml"
+    },
+    {
+        "name": "dsreg.yml",
+        "path": "microsoft\\built-in\\dsreg.yml"
+    },
+    {
+        "name": "dsrole.yml",
+        "path": "microsoft\\built-in\\dsrole.yml"
+    },
+    {
+        "name": "dui70.yml",
+        "path": "microsoft\\built-in\\dui70.yml"
+    },
+    {
+        "name": "duser.yml",
+        "path": "microsoft\\built-in\\duser.yml"
+    },
+    {
+        "name": "dusmapi.yml",
+        "path": "microsoft\\built-in\\dusmapi.yml"
+    },
+    {
+        "name": "dwmapi.yml",
+        "path": "microsoft\\built-in\\dwmapi.yml"
+    },
+    {
+        "name": "dwmcore.yml",
+        "path": "microsoft\\built-in\\dwmcore.yml"
+    },
+    {
+        "name": "dwrite.yml",
+        "path": "microsoft\\built-in\\dwrite.yml"
+    },
+    {
+        "name": "dxcore.yml",
+        "path": "microsoft\\built-in\\dxcore.yml"
+    },
+    {
+        "name": "dxgi.yml",
+        "path": "microsoft\\built-in\\dxgi.yml"
+    },
+    {
+        "name": "dxva2.yml",
+        "path": "microsoft\\built-in\\dxva2.yml"
+    },
+    {
+        "name": "dynamoapi.yml",
+        "path": "microsoft\\built-in\\dynamoapi.yml"
+    },
+    {
+        "name": "eappcfg.yml",
+        "path": "microsoft\\built-in\\eappcfg.yml"
+    },
+    {
+        "name": "eappprxy.yml",
+        "path": "microsoft\\built-in\\eappprxy.yml"
+    },
+    {
+        "name": "edgeiso.yml",
+        "path": "microsoft\\built-in\\edgeiso.yml"
+    },
+    {
+        "name": "edputil.yml",
+        "path": "microsoft\\built-in\\edputil.yml"
+    },
+    {
+        "name": "efsadu.yml",
+        "path": "microsoft\\built-in\\efsadu.yml"
+    },
+    {
+        "name": "efsutil.yml",
+        "path": "microsoft\\built-in\\efsutil.yml"
+    },
+    {
+        "name": "esent.yml",
+        "path": "microsoft\\built-in\\esent.yml"
+    },
+    {
+        "name": "execmodelproxy.yml",
+        "path": "microsoft\\built-in\\execmodelproxy.yml"
+    },
+    {
+        "name": "explorerframe.yml",
+        "path": "microsoft\\built-in\\explorerframe.yml"
+    },
+    {
+        "name": "fastprox.yml",
+        "path": "microsoft\\built-in\\fastprox.yml"
+    },
+    {
+        "name": "faultrep.yml",
+        "path": "microsoft\\built-in\\faultrep.yml"
+    },
+    {
+        "name": "fddevquery.yml",
+        "path": "microsoft\\built-in\\fddevquery.yml"
+    },
+    {
+        "name": "feclient.yml",
+        "path": "microsoft\\built-in\\feclient.yml"
+    },
+    {
+        "name": "fhcfg.yml",
+        "path": "microsoft\\built-in\\fhcfg.yml"
+    },
+    {
+        "name": "fhsvcctl.yml",
+        "path": "microsoft\\built-in\\fhsvcctl.yml"
+    },
+    {
+        "name": "firewallapi.yml",
+        "path": "microsoft\\built-in\\firewallapi.yml"
+    },
+    {
+        "name": "flightsettings.yml",
+        "path": "microsoft\\built-in\\flightsettings.yml"
+    },
+    {
+        "name": "fltlib.yml",
+        "path": "microsoft\\built-in\\fltlib.yml"
+    },
+    {
+        "name": "framedynos.yml",
+        "path": "microsoft\\built-in\\framedynos.yml"
+    },
+    {
+        "name": "fveapi.yml",
+        "path": "microsoft\\built-in\\fveapi.yml"
+    },
+    {
+        "name": "fveskybackup.yml",
+        "path": "microsoft\\built-in\\fveskybackup.yml"
+    },
+    {
+        "name": "fvewiz.yml",
+        "path": "microsoft\\built-in\\fvewiz.yml"
+    },
+    {
+        "name": "fwbase.yml",
+        "path": "microsoft\\built-in\\fwbase.yml"
+    },
+    {
+        "name": "fwcfg.yml",
+        "path": "microsoft\\built-in\\fwcfg.yml"
+    },
+    {
+        "name": "fwpolicyiomgr.yml",
+        "path": "microsoft\\built-in\\fwpolicyiomgr.yml"
+    },
+    {
+        "name": "fwpuclnt.yml",
+        "path": "microsoft\\built-in\\fwpuclnt.yml"
+    },
+    {
+        "name": "fxsapi.yml",
+        "path": "microsoft\\built-in\\fxsapi.yml"
+    },
+    {
+        "name": "fxsst.yml",
+        "path": "microsoft\\built-in\\fxsst.yml"
+    },
+    {
+        "name": "fxstiff.yml",
+        "path": "microsoft\\built-in\\fxstiff.yml"
+    },
+    {
+        "name": "getuname.yml",
+        "path": "microsoft\\built-in\\getuname.yml"
+    },
+    {
+        "name": "gpapi.yml",
+        "path": "microsoft\\built-in\\gpapi.yml"
+    },
+    {
+        "name": "hid.yml",
+        "path": "microsoft\\built-in\\hid.yml"
+    },
+    {
+        "name": "hnetmon.yml",
+        "path": "microsoft\\built-in\\hnetmon.yml"
+    },
+    {
+        "name": "httpapi.yml",
+        "path": "microsoft\\built-in\\httpapi.yml"
+    },
+    {
+        "name": "icmp.yml",
+        "path": "microsoft\\built-in\\icmp.yml"
+    },
+    {
+        "name": "idstore.yml",
+        "path": "microsoft\\built-in\\idstore.yml"
+    },
+    {
+        "name": "ieadvpack.yml",
+        "path": "microsoft\\built-in\\ieadvpack.yml"
+    },
+    {
+        "name": "iedkcs32.yml",
+        "path": "microsoft\\built-in\\iedkcs32.yml"
+    },
+    {
+        "name": "iernonce.yml",
+        "path": "microsoft\\built-in\\iernonce.yml"
+    },
+    {
+        "name": "iertutil.yml",
+        "path": "microsoft\\built-in\\iertutil.yml"
+    },
+    {
+        "name": "ifmon.yml",
+        "path": "microsoft\\built-in\\ifmon.yml"
+    },
+    {
+        "name": "ifsutil.yml",
+        "path": "microsoft\\built-in\\ifsutil.yml"
+    },
+    {
+        "name": "inproclogger.yml",
+        "path": "microsoft\\built-in\\inproclogger.yml"
+    },
+    {
+        "name": "iphlpapi.yml",
+        "path": "microsoft\\built-in\\iphlpapi.yml"
+    },
+    {
+        "name": "iri.yml",
+        "path": "microsoft\\built-in\\iri.yml"
+    },
+    {
+        "name": "iscsidsc.yml",
+        "path": "microsoft\\built-in\\iscsidsc.yml"
+    },
+    {
+        "name": "iscsiexe.yml",
+        "path": "microsoft\\built-in\\iscsiexe.yml"
+    },
+    {
+        "name": "iscsium.yml",
+        "path": "microsoft\\built-in\\iscsium.yml"
+    },
+    {
+        "name": "isv.exe_rsaenh.yml",
+        "path": "microsoft\\built-in\\isv.exe_rsaenh.yml"
+    },
+    {
+        "name": "iumbase.yml",
+        "path": "microsoft\\built-in\\iumbase.yml"
+    },
+    {
+        "name": "iumsdk.yml",
+        "path": "microsoft\\built-in\\iumsdk.yml"
+    },
+    {
+        "name": "joinutil.yml",
+        "path": "microsoft\\built-in\\joinutil.yml"
+    },
+    {
+        "name": "kdstub.yml",
+        "path": "microsoft\\built-in\\kdstub.yml"
+    },
+    {
+        "name": "ksuser.yml",
+        "path": "microsoft\\built-in\\ksuser.yml"
+    },
+    {
+        "name": "ktmw32.yml",
+        "path": "microsoft\\built-in\\ktmw32.yml"
+    },
+    {
+        "name": "licensemanagerapi.yml",
+        "path": "microsoft\\built-in\\licensemanagerapi.yml"
+    },
+    {
+        "name": "licensingdiagspp.yml",
+        "path": "microsoft\\built-in\\licensingdiagspp.yml"
+    },
+    {
+        "name": "linkinfo.yml",
+        "path": "microsoft\\built-in\\linkinfo.yml"
+    },
+    {
+        "name": "loadperf.yml",
+        "path": "microsoft\\built-in\\loadperf.yml"
+    },
+    {
+        "name": "lockhostingframework.yml",
+        "path": "microsoft\\built-in\\lockhostingframework.yml"
+    },
+    {
+        "name": "logoncli.yml",
+        "path": "microsoft\\built-in\\logoncli.yml"
+    },
+    {
+        "name": "logoncontroller.yml",
+        "path": "microsoft\\built-in\\logoncontroller.yml"
+    },
+    {
+        "name": "lpksetupproxyserv.yml",
+        "path": "microsoft\\built-in\\lpksetupproxyserv.yml"
+    },
+    {
+        "name": "lrwizdll.yml",
+        "path": "microsoft\\built-in\\lrwizdll.yml"
+    },
+    {
+        "name": "magnification.yml",
+        "path": "microsoft\\built-in\\magnification.yml"
+    },
+    {
+        "name": "maintenanceui.yml",
+        "path": "microsoft\\built-in\\maintenanceui.yml"
+    },
+    {
+        "name": "mapistub.yml",
+        "path": "microsoft\\built-in\\mapistub.yml"
+    },
+    {
+        "name": "mbaexmlparser.yml",
+        "path": "microsoft\\built-in\\mbaexmlparser.yml"
+    },
+    {
+        "name": "mdmdiagnostics.yml",
+        "path": "microsoft\\built-in\\mdmdiagnostics.yml"
+    },
+    {
+        "name": "mfc42u.yml",
+        "path": "microsoft\\built-in\\mfc42u.yml"
+    },
+    {
+        "name": "mfcore.yml",
+        "path": "microsoft\\built-in\\mfcore.yml"
+    },
+    {
+        "name": "mfplat.yml",
+        "path": "microsoft\\built-in\\mfplat.yml"
+    },
+    {
+        "name": "mi.yml",
+        "path": "microsoft\\built-in\\mi.yml"
+    },
+    {
+        "name": "microsoft.ui.xaml.xamltypeinfo.yml",
+        "path": "microsoft\\built-in\\microsoft.ui.xaml.xamltypeinfo.yml"
+    },
+    {
+        "name": "midimap.yml",
+        "path": "microsoft\\built-in\\midimap.yml"
+    },
+    {
+        "name": "mintdh.yml",
+        "path": "microsoft\\built-in\\mintdh.yml"
+    },
+    {
+        "name": "miutils.yml",
+        "path": "microsoft\\built-in\\miutils.yml"
+    },
+    {
+        "name": "mlang.yml",
+        "path": "microsoft\\built-in\\mlang.yml"
+    },
+    {
+        "name": "mmdevapi.yml",
+        "path": "microsoft\\built-in\\mmdevapi.yml"
+    },
+    {
+        "name": "mobilenetworking.yml",
+        "path": "microsoft\\built-in\\mobilenetworking.yml"
+    },
+    {
+        "name": "mpclient.yml",
+        "path": "microsoft\\built-in\\mpclient.yml"
+    },
+    {
+        "name": "mpr.yml",
+        "path": "microsoft\\built-in\\mpr.yml"
+    },
+    {
+        "name": "mprapi.yml",
+        "path": "microsoft\\built-in\\mprapi.yml"
+    },
+    {
+        "name": "mpsvc.yml",
+        "path": "microsoft\\built-in\\mpsvc.yml"
+    },
+    {
+        "name": "mrmcorer.yml",
+        "path": "microsoft\\built-in\\mrmcorer.yml"
+    },
+    {
+        "name": "msacm32.yml",
+        "path": "microsoft\\built-in\\msacm32.yml"
+    },
+    {
+        "name": "mscms.yml",
+        "path": "microsoft\\built-in\\mscms.yml"
+    },
+    {
+        "name": "mscoree.yml",
+        "path": "microsoft\\built-in\\mscoree.yml"
+    },
+    {
+        "name": "mscorsvc.yml",
+        "path": "microsoft\\built-in\\mscorsvc.yml"
+    },
+    {
+        "name": "msctf.yml",
+        "path": "microsoft\\built-in\\msctf.yml"
+    },
+    {
+        "name": "msctfmonitor.yml",
+        "path": "microsoft\\built-in\\msctfmonitor.yml"
+    },
+    {
+        "name": "msdrm.yml",
+        "path": "microsoft\\built-in\\msdrm.yml"
+    },
+    {
+        "name": "msdtctm.yml",
+        "path": "microsoft\\built-in\\msdtctm.yml"
+    },
+    {
+        "name": "msedgeupdate.yml",
+        "path": "microsoft\\built-in\\msedgeupdate.yml"
+    },
+    {
+        "name": "msedge_elf.yml",
+        "path": "microsoft\\built-in\\msedge_elf.yml"
+    },
+    {
+        "name": "msftedit.yml",
+        "path": "microsoft\\built-in\\msftedit.yml"
+    },
+    {
+        "name": "msi.yml",
+        "path": "microsoft\\built-in\\msi.yml"
+    },
+    {
+        "name": "msiso.yml",
+        "path": "microsoft\\built-in\\msiso.yml"
+    },
+    {
+        "name": "mstracer.yml",
+        "path": "microsoft\\built-in\\mstracer.yml"
+    },
+    {
+        "name": "msutb.yml",
+        "path": "microsoft\\built-in\\msutb.yml"
+    },
+    {
+        "name": "msvcp110_win.yml",
+        "path": "microsoft\\built-in\\msvcp110_win.yml"
+    },
+    {
+        "name": "msvcr100.yml",
+        "path": "microsoft\\built-in\\msvcr100.yml"
+    },
+    {
+        "name": "mswb7.yml",
+        "path": "microsoft\\built-in\\mswb7.yml"
+    },
+    {
+        "name": "mswsock.yml",
+        "path": "microsoft\\built-in\\mswsock.yml"
+    },
+    {
+        "name": "msxml3.yml",
+        "path": "microsoft\\built-in\\msxml3.yml"
+    },
+    {
+        "name": "mtxclu.yml",
+        "path": "microsoft\\built-in\\mtxclu.yml"
+    },
+    {
+        "name": "napinsp.yml",
+        "path": "microsoft\\built-in\\napinsp.yml"
+    },
+    {
+        "name": "ncrypt.yml",
+        "path": "microsoft\\built-in\\ncrypt.yml"
+    },
+    {
+        "name": "ndfapi.yml",
+        "path": "microsoft\\built-in\\ndfapi.yml"
+    },
+    {
+        "name": "netapi32.yml",
+        "path": "microsoft\\built-in\\netapi32.yml"
+    },
+    {
+        "name": "netid.yml",
+        "path": "microsoft\\built-in\\netid.yml"
+    },
+    {
+        "name": "netiohlp.yml",
+        "path": "microsoft\\built-in\\netiohlp.yml"
+    },
+    {
+        "name": "netjoin.yml",
+        "path": "microsoft\\built-in\\netjoin.yml"
+    },
+    {
+        "name": "netplwiz.yml",
+        "path": "microsoft\\built-in\\netplwiz.yml"
+    },
+    {
+        "name": "netprofm.yml",
+        "path": "microsoft\\built-in\\netprofm.yml"
+    },
+    {
+        "name": "netprovfw.yml",
+        "path": "microsoft\\built-in\\netprovfw.yml"
+    },
+    {
+        "name": "netsetupapi.yml",
+        "path": "microsoft\\built-in\\netsetupapi.yml"
+    },
+    {
+        "name": "netshell.yml",
+        "path": "microsoft\\built-in\\netshell.yml"
+    },
+    {
+        "name": "nettrace.yml",
+        "path": "microsoft\\built-in\\nettrace.yml"
+    },
+    {
+        "name": "netutils.yml",
+        "path": "microsoft\\built-in\\netutils.yml"
+    },
+    {
+        "name": "networkexplorer.yml",
+        "path": "microsoft\\built-in\\networkexplorer.yml"
+    },
+    {
+        "name": "newdev.yml",
+        "path": "microsoft\\built-in\\newdev.yml"
+    },
+    {
+        "name": "ninput.yml",
+        "path": "microsoft\\built-in\\ninput.yml"
+    },
+    {
+        "name": "nlaapi.yml",
+        "path": "microsoft\\built-in\\nlaapi.yml"
+    },
+    {
+        "name": "nlansp_c.yml",
+        "path": "microsoft\\built-in\\nlansp_c.yml"
+    },
+    {
+        "name": "npmproxy.yml",
+        "path": "microsoft\\built-in\\npmproxy.yml"
+    },
+    {
+        "name": "nshhttp.yml",
+        "path": "microsoft\\built-in\\nshhttp.yml"
+    },
+    {
+        "name": "nshipsec.yml",
+        "path": "microsoft\\built-in\\nshipsec.yml"
+    },
+    {
+        "name": "nshwfp.yml",
+        "path": "microsoft\\built-in\\nshwfp.yml"
+    },
+    {
+        "name": "ntdsapi.yml",
+        "path": "microsoft\\built-in\\ntdsapi.yml"
+    },
+    {
+        "name": "ntlanman.yml",
+        "path": "microsoft\\built-in\\ntlanman.yml"
+    },
+    {
+        "name": "ntlmshared.yml",
+        "path": "microsoft\\built-in\\ntlmshared.yml"
+    },
+    {
+        "name": "ntmarta.yml",
+        "path": "microsoft\\built-in\\ntmarta.yml"
+    },
+    {
+        "name": "ntshrui.yml",
+        "path": "microsoft\\built-in\\ntshrui.yml"
+    },
+    {
+        "name": "oci.yml",
+        "path": "microsoft\\built-in\\oci.yml"
+    },
+    {
+        "name": "oleacc.yml",
+        "path": "microsoft\\built-in\\oleacc.yml"
+    },
+    {
+        "name": "omadmapi.yml",
+        "path": "microsoft\\built-in\\omadmapi.yml"
+    },
+    {
+        "name": "onex.yml",
+        "path": "microsoft\\built-in\\onex.yml"
+    },
+    {
+        "name": "opcservices.yml",
+        "path": "microsoft\\built-in\\opcservices.yml"
+    },
+    {
+        "name": "osbaseln.yml",
+        "path": "microsoft\\built-in\\osbaseln.yml"
+    },
+    {
+        "name": "osksupport.yml",
+        "path": "microsoft\\built-in\\osksupport.yml"
+    },
+    {
+        "name": "osuninst.yml",
+        "path": "microsoft\\built-in\\osuninst.yml"
+    },
+    {
+        "name": "p2p.yml",
+        "path": "microsoft\\built-in\\p2p.yml"
+    },
+    {
+        "name": "p2pnetsh.yml",
+        "path": "microsoft\\built-in\\p2pnetsh.yml"
+    },
+    {
+        "name": "p9np.yml",
+        "path": "microsoft\\built-in\\p9np.yml"
+    },
+    {
+        "name": "pcaui.yml",
+        "path": "microsoft\\built-in\\pcaui.yml"
+    },
+    {
+        "name": "pdh.yml",
+        "path": "microsoft\\built-in\\pdh.yml"
+    },
+    {
+        "name": "peerdistsh.yml",
+        "path": "microsoft\\built-in\\peerdistsh.yml"
+    },
+    {
+        "name": "pkeyhelper.yml",
+        "path": "microsoft\\built-in\\pkeyhelper.yml"
+    },
+    {
+        "name": "pla.yml",
+        "path": "microsoft\\built-in\\pla.yml"
+    },
+    {
+        "name": "playsndsrv.yml",
+        "path": "microsoft\\built-in\\playsndsrv.yml"
+    },
+    {
+        "name": "pnrpnsp.yml",
+        "path": "microsoft\\built-in\\pnrpnsp.yml"
+    },
+    {
+        "name": "policymanager.yml",
+        "path": "microsoft\\built-in\\policymanager.yml"
+    },
+    {
+        "name": "polstore.yml",
+        "path": "microsoft\\built-in\\polstore.yml"
+    },
+    {
+        "name": "powrprof.yml",
+        "path": "microsoft\\built-in\\powrprof.yml"
+    },
+    {
+        "name": "printui.yml",
+        "path": "microsoft\\built-in\\printui.yml"
+    },
+    {
+        "name": "prntvpt.yml",
+        "path": "microsoft\\built-in\\prntvpt.yml"
+    },
+    {
+        "name": "profapi.yml",
+        "path": "microsoft\\built-in\\profapi.yml"
+    },
+    {
+        "name": "propsys.yml",
+        "path": "microsoft\\built-in\\propsys.yml"
+    },
+    {
+        "name": "proximitycommon.yml",
+        "path": "microsoft\\built-in\\proximitycommon.yml"
+    },
+    {
+        "name": "proximityservicepal.yml",
+        "path": "microsoft\\built-in\\proximityservicepal.yml"
+    },
+    {
+        "name": "prvdmofcomp.yml",
+        "path": "microsoft\\built-in\\prvdmofcomp.yml"
+    },
+    {
+        "name": "puiapi.yml",
+        "path": "microsoft\\built-in\\puiapi.yml"
+    },
+    {
+        "name": "radcui.yml",
+        "path": "microsoft\\built-in\\radcui.yml"
+    },
+    {
+        "name": "rasapi32.yml",
+        "path": "microsoft\\built-in\\rasapi32.yml"
+    },
+    {
+        "name": "rasdlg.yml",
+        "path": "microsoft\\built-in\\rasdlg.yml"
+    },
+    {
+        "name": "rasgcw.yml",
+        "path": "microsoft\\built-in\\rasgcw.yml"
+    },
+    {
+        "name": "rasman.yml",
+        "path": "microsoft\\built-in\\rasman.yml"
+    },
+    {
+        "name": "rasmontr.yml",
+        "path": "microsoft\\built-in\\rasmontr.yml"
+    },
+    {
+        "name": "reagent.yml",
+        "path": "microsoft\\built-in\\reagent.yml"
+    },
+    {
+        "name": "regapi.yml",
+        "path": "microsoft\\built-in\\regapi.yml"
+    },
+    {
+        "name": "reseteng.yml",
+        "path": "microsoft\\built-in\\reseteng.yml"
+    },
+    {
+        "name": "resetengine.yml",
+        "path": "microsoft\\built-in\\resetengine.yml"
+    },
+    {
+        "name": "resutils.yml",
+        "path": "microsoft\\built-in\\resutils.yml"
+    },
+    {
+        "name": "rjvplatform.yml",
+        "path": "microsoft\\built-in\\rjvplatform.yml"
+    },
+    {
+        "name": "rmclient.yml",
+        "path": "microsoft\\built-in\\rmclient.yml"
+    },
+    {
+        "name": "rpcnsh.yml",
+        "path": "microsoft\\built-in\\rpcnsh.yml"
+    },
+    {
+        "name": "rsaenh.yml",
+        "path": "microsoft\\built-in\\rsaenh.yml"
+    },
+    {
+        "name": "rtutils.yml",
+        "path": "microsoft\\built-in\\rtutils.yml"
+    },
+    {
+        "name": "rtworkq.yml",
+        "path": "microsoft\\built-in\\rtworkq.yml"
+    },
+    {
+        "name": "samcli.yml",
+        "path": "microsoft\\built-in\\samcli.yml"
+    },
+    {
+        "name": "samlib.yml",
+        "path": "microsoft\\built-in\\samlib.yml"
+    },
+    {
+        "name": "sapi_onecore.yml",
+        "path": "microsoft\\built-in\\sapi_onecore.yml"
+    },
+    {
+        "name": "sas.yml",
+        "path": "microsoft\\built-in\\sas.yml"
+    },
+    {
+        "name": "scansetting.yml",
+        "path": "microsoft\\built-in\\scansetting.yml"
+    },
+    {
+        "name": "scecli.yml",
+        "path": "microsoft\\built-in\\scecli.yml"
+    },
+    {
+        "name": "schedcli.yml",
+        "path": "microsoft\\built-in\\schedcli.yml"
+    },
+    {
+        "name": "secur32.yml",
+        "path": "microsoft\\built-in\\secur32.yml"
+    },
+    {
+        "name": "security.yml",
+        "path": "microsoft\\built-in\\security.yml"
+    },
+    {
+        "name": "sensapi.yml",
+        "path": "microsoft\\built-in\\sensapi.yml"
+    },
+    {
+        "name": "shell32.yml",
+        "path": "microsoft\\built-in\\shell32.yml"
+    },
+    {
+        "name": "shellchromeapi.yml",
+        "path": "microsoft\\built-in\\shellchromeapi.yml"
+    },
+    {
+        "name": "slc.yml",
+        "path": "microsoft\\built-in\\slc.yml"
+    },
+    {
+        "name": "snmpapi.yml",
+        "path": "microsoft\\built-in\\snmpapi.yml"
+    },
+    {
+        "name": "spectrumsyncclient.yml",
+        "path": "microsoft\\built-in\\spectrumsyncclient.yml"
+    },
+    {
+        "name": "spp.yml",
+        "path": "microsoft\\built-in\\spp.yml"
+    },
+    {
+        "name": "sppc.yml",
+        "path": "microsoft\\built-in\\sppc.yml"
+    },
+    {
+        "name": "sppcext.yml",
+        "path": "microsoft\\built-in\\sppcext.yml"
+    },
+    {
+        "name": "srclient.yml",
+        "path": "microsoft\\built-in\\srclient.yml"
+    },
+    {
+        "name": "srcore.yml",
+        "path": "microsoft\\built-in\\srcore.yml"
+    },
+    {
+        "name": "srmtrace.yml",
+        "path": "microsoft\\built-in\\srmtrace.yml"
+    },
+    {
+        "name": "srpapi.yml",
+        "path": "microsoft\\built-in\\srpapi.yml"
+    },
+    {
+        "name": "srvcli.yml",
+        "path": "microsoft\\built-in\\srvcli.yml"
+    },
+    {
+        "name": "ssp.exe_rsaenh.yml",
+        "path": "microsoft\\built-in\\ssp.exe_rsaenh.yml"
+    },
+    {
+        "name": "sspicli.yml",
+        "path": "microsoft\\built-in\\sspicli.yml"
+    },
+    {
+        "name": "ssp_isv.exe_rsaenh.yml",
+        "path": "microsoft\\built-in\\ssp_isv.exe_rsaenh.yml"
+    },
+    {
+        "name": "ssshim.yml",
+        "path": "microsoft\\built-in\\ssshim.yml"
+    },
+    {
+        "name": "staterepository.core.yml",
+        "path": "microsoft\\built-in\\staterepository.core.yml"
+    },
+    {
+        "name": "sti.yml",
+        "path": "microsoft\\built-in\\sti.yml"
+    },
+    {
+        "name": "structuredquery.yml",
+        "path": "microsoft\\built-in\\structuredquery.yml"
+    },
+    {
+        "name": "sxshared.yml",
+        "path": "microsoft\\built-in\\sxshared.yml"
+    },
+    {
+        "name": "systemsettingsthresholdadminflowui.yml",
+        "path": "microsoft\\built-in\\systemsettingsthresholdadminflowui.yml"
+    },
+    {
+        "name": "tapi32.yml",
+        "path": "microsoft\\built-in\\tapi32.yml"
+    },
+    {
+        "name": "tbs.yml",
+        "path": "microsoft\\built-in\\tbs.yml"
+    },
+    {
+        "name": "tdh.yml",
+        "path": "microsoft\\built-in\\tdh.yml"
+    },
+    {
+        "name": "textshaping.yml",
+        "path": "microsoft\\built-in\\textshaping.yml"
+    },
+    {
+        "name": "timesync.yml",
+        "path": "microsoft\\built-in\\timesync.yml"
+    },
+    {
+        "name": "tpmcoreprovisioning.yml",
+        "path": "microsoft\\built-in\\tpmcoreprovisioning.yml"
+    },
+    {
+        "name": "tquery.yml",
+        "path": "microsoft\\built-in\\tquery.yml"
+    },
+    {
+        "name": "tsworkspace.yml",
+        "path": "microsoft\\built-in\\tsworkspace.yml"
+    },
+    {
+        "name": "ttdrecord.yml",
+        "path": "microsoft\\built-in\\ttdrecord.yml"
+    },
+    {
+        "name": "twext.yml",
+        "path": "microsoft\\built-in\\twext.yml"
+    },
+    {
+        "name": "twinapi.yml",
+        "path": "microsoft\\built-in\\twinapi.yml"
+    },
+    {
+        "name": "twinui.appcore.yml",
+        "path": "microsoft\\built-in\\twinui.appcore.yml"
+    },
+    {
+        "name": "uianimation.yml",
+        "path": "microsoft\\built-in\\uianimation.yml"
+    },
+    {
+        "name": "uiautomationcore.yml",
+        "path": "microsoft\\built-in\\uiautomationcore.yml"
+    },
+    {
+        "name": "uireng.yml",
+        "path": "microsoft\\built-in\\uireng.yml"
+    },
+    {
+        "name": "uiribbon.yml",
+        "path": "microsoft\\built-in\\uiribbon.yml"
+    },
+    {
+        "name": "umpdc.yml",
+        "path": "microsoft\\built-in\\umpdc.yml"
+    },
+    {
+        "name": "unattend.yml",
+        "path": "microsoft\\built-in\\unattend.yml"
+    },
+    {
+        "name": "updatepolicy.yml",
+        "path": "microsoft\\built-in\\updatepolicy.yml"
+    },
+    {
+        "name": "upshared.yml",
+        "path": "microsoft\\built-in\\upshared.yml"
+    },
+    {
+        "name": "urlmon.yml",
+        "path": "microsoft\\built-in\\urlmon.yml"
+    },
+    {
+        "name": "userenv.yml",
+        "path": "microsoft\\built-in\\userenv.yml"
+    },
+    {
+        "name": "utildll.yml",
+        "path": "microsoft\\built-in\\utildll.yml"
+    },
+    {
+        "name": "uxinit.yml",
+        "path": "microsoft\\built-in\\uxinit.yml"
+    },
+    {
+        "name": "uxtheme.yml",
+        "path": "microsoft\\built-in\\uxtheme.yml"
+    },
+    {
+        "name": "vaultcli.yml",
+        "path": "microsoft\\built-in\\vaultcli.yml"
+    },
+    {
+        "name": "vdsutil.yml",
+        "path": "microsoft\\built-in\\vdsutil.yml"
+    },
+    {
+        "name": "version.yml",
+        "path": "microsoft\\built-in\\version.yml"
+    },
+    {
+        "name": "virtdisk.yml",
+        "path": "microsoft\\built-in\\virtdisk.yml"
+    },
+    {
+        "name": "vssapi.yml",
+        "path": "microsoft\\built-in\\vssapi.yml"
+    },
+    {
+        "name": "vsstrace.yml",
+        "path": "microsoft\\built-in\\vsstrace.yml"
+    },
+    {
+        "name": "wbemprox.yml",
+        "path": "microsoft\\built-in\\wbemprox.yml"
+    },
+    {
+        "name": "wbemsvc.yml",
+        "path": "microsoft\\built-in\\wbemsvc.yml"
+    },
+    {
+        "name": "wcmapi.yml",
+        "path": "microsoft\\built-in\\wcmapi.yml"
+    },
+    {
+        "name": "wcnnetsh.yml",
+        "path": "microsoft\\built-in\\wcnnetsh.yml"
+    },
+    {
+        "name": "wdi.yml",
+        "path": "microsoft\\built-in\\wdi.yml"
+    },
+    {
+        "name": "wdscore.yml",
+        "path": "microsoft\\built-in\\wdscore.yml"
+    },
+    {
+        "name": "webservices.yml",
+        "path": "microsoft\\built-in\\webservices.yml"
+    },
+    {
+        "name": "wecapi.yml",
+        "path": "microsoft\\built-in\\wecapi.yml"
+    },
+    {
+        "name": "wer.yml",
+        "path": "microsoft\\built-in\\wer.yml"
+    },
+    {
+        "name": "wevtapi.yml",
+        "path": "microsoft\\built-in\\wevtapi.yml"
+    },
+    {
+        "name": "whhelper.yml",
+        "path": "microsoft\\built-in\\whhelper.yml"
+    },
+    {
+        "name": "wimgapi.yml",
+        "path": "microsoft\\built-in\\wimgapi.yml"
+    },
+    {
+        "name": "winbio.yml",
+        "path": "microsoft\\built-in\\winbio.yml"
+    },
+    {
+        "name": "winbrand.yml",
+        "path": "microsoft\\built-in\\winbrand.yml"
+    },
+    {
+        "name": "windows.storage.search.yml",
+        "path": "microsoft\\built-in\\windows.storage.search.yml"
+    },
+    {
+        "name": "windows.storage.yml",
+        "path": "microsoft\\built-in\\windows.storage.yml"
+    },
+    {
+        "name": "windows.ui.immersive.yml",
+        "path": "microsoft\\built-in\\windows.ui.immersive.yml"
+    },
+    {
+        "name": "windowscodecs.yml",
+        "path": "microsoft\\built-in\\windowscodecs.yml"
+    },
+    {
+        "name": "windowscodecsext.yml",
+        "path": "microsoft\\built-in\\windowscodecsext.yml"
+    },
+    {
+        "name": "windowsperformancerecordercontrol.yml",
+        "path": "microsoft\\built-in\\windowsperformancerecordercontrol.yml"
+    },
+    {
+        "name": "windowsudk.shellcommon.yml",
+        "path": "microsoft\\built-in\\windowsudk.shellcommon.yml"
+    },
+    {
+        "name": "winhttp.yml",
+        "path": "microsoft\\built-in\\winhttp.yml"
+    },
+    {
+        "name": "wininet.yml",
+        "path": "microsoft\\built-in\\wininet.yml"
+    },
+    {
+        "name": "winipsec.yml",
+        "path": "microsoft\\built-in\\winipsec.yml"
+    },
+    {
+        "name": "winmde.yml",
+        "path": "microsoft\\built-in\\winmde.yml"
+    },
+    {
+        "name": "winmm.yml",
+        "path": "microsoft\\built-in\\winmm.yml"
+    },
+    {
+        "name": "winnsi.yml",
+        "path": "microsoft\\built-in\\winnsi.yml"
+    },
+    {
+        "name": "winrnr.yml",
+        "path": "microsoft\\built-in\\winrnr.yml"
+    },
+    {
+        "name": "winscard.yml",
+        "path": "microsoft\\built-in\\winscard.yml"
+    },
+    {
+        "name": "winsqlite3.yml",
+        "path": "microsoft\\built-in\\winsqlite3.yml"
+    },
+    {
+        "name": "winsta.yml",
+        "path": "microsoft\\built-in\\winsta.yml"
+    },
+    {
+        "name": "winsync.yml",
+        "path": "microsoft\\built-in\\winsync.yml"
+    },
+    {
+        "name": "wkscli.yml",
+        "path": "microsoft\\built-in\\wkscli.yml"
+    },
+    {
+        "name": "wlanapi.yml",
+        "path": "microsoft\\built-in\\wlanapi.yml"
+    },
+    {
+        "name": "wlancfg.yml",
+        "path": "microsoft\\built-in\\wlancfg.yml"
+    },
+    {
+        "name": "wlbsctrl.yml",
+        "path": "microsoft\\built-in\\wlbsctrl.yml"
+    },
+    {
+        "name": "wldp.yml",
+        "path": "microsoft\\built-in\\wldp.yml"
+    },
+    {
+        "name": "wlidprov.yml",
+        "path": "microsoft\\built-in\\wlidprov.yml"
+    },
+    {
+        "name": "wmiclnt.yml",
+        "path": "microsoft\\built-in\\wmiclnt.yml"
+    },
+    {
+        "name": "wmidcom.yml",
+        "path": "microsoft\\built-in\\wmidcom.yml"
+    },
+    {
+        "name": "wmiutils.yml",
+        "path": "microsoft\\built-in\\wmiutils.yml"
+    },
+    {
+        "name": "wmpdui.yml",
+        "path": "microsoft\\built-in\\wmpdui.yml"
+    },
+    {
+        "name": "wmsgapi.yml",
+        "path": "microsoft\\built-in\\wmsgapi.yml"
+    },
+    {
+        "name": "wofutil.yml",
+        "path": "microsoft\\built-in\\wofutil.yml"
+    },
+    {
+        "name": "wpdshext.yml",
+        "path": "microsoft\\built-in\\wpdshext.yml"
+    },
+    {
+        "name": "wptsextensions.yml",
+        "path": "microsoft\\built-in\\wptsextensions.yml"
+    },
+    {
+        "name": "wscapi.yml",
+        "path": "microsoft\\built-in\\wscapi.yml"
+    },
+    {
+        "name": "wsdapi.yml",
+        "path": "microsoft\\built-in\\wsdapi.yml"
+    },
+    {
+        "name": "wshbth.yml",
+        "path": "microsoft\\built-in\\wshbth.yml"
+    },
+    {
+        "name": "wshelper.yml",
+        "path": "microsoft\\built-in\\wshelper.yml"
+    },
+    {
+        "name": "wsmsvc.yml",
+        "path": "microsoft\\built-in\\wsmsvc.yml"
+    },
+    {
+        "name": "wtsapi32.yml",
+        "path": "microsoft\\built-in\\wtsapi32.yml"
+    },
+    {
+        "name": "wwancfg.yml",
+        "path": "microsoft\\built-in\\wwancfg.yml"
+    },
+    {
+        "name": "wwapi.yml",
+        "path": "microsoft\\built-in\\wwapi.yml"
+    },
+    {
+        "name": "xmllite.yml",
+        "path": "microsoft\\built-in\\xmllite.yml"
+    },
+    {
+        "name": "xolehlp.yml",
+        "path": "microsoft\\built-in\\xolehlp.yml"
+    },
+    {
+        "name": "xpsservices.yml",
+        "path": "microsoft\\built-in\\xpsservices.yml"
+    },
+    {
+        "name": "xwizards.yml",
+        "path": "microsoft\\built-in\\xwizards.yml"
+    },
+    {
+        "name": "xwtpw32.yml",
+        "path": "microsoft\\built-in\\xwtpw32.yml"
+    },
+    {
+        "name": "atltracetoolui.yml",
+        "path": "microsoft\\external\\atltracetoolui.yml"
+    },
+    {
+        "name": "dbgeng.yml",
+        "path": "microsoft\\external\\dbgeng.yml"
+    },
+    {
+        "name": "formdll.yml",
+        "path": "microsoft\\external\\formdll.yml"
+    },
+    {
+        "name": "gflagsui.yml",
+        "path": "microsoft\\external\\gflagsui.yml"
+    },
+    {
+        "name": "hha.yml",
+        "path": "microsoft\\external\\hha.yml"
+    },
+    {
+        "name": "imjp14k.yml",
+        "path": "microsoft\\external\\imjp14k.yml"
+    },
+    {
+        "name": "iviewers.yml",
+        "path": "microsoft\\external\\iviewers.yml"
+    },
+    {
+        "name": "mpgear.yml",
+        "path": "microsoft\\external\\mpgear.yml"
+    },
+    {
+        "name": "msidcrl40.yml",
+        "path": "microsoft\\external\\msidcrl40.yml"
+    },
+    {
+        "name": "outllib.yml",
+        "path": "microsoft\\external\\outllib.yml"
+    },
+    {
+        "name": "rcdll.yml",
+        "path": "microsoft\\external\\rcdll.yml"
+    },
+    {
+        "name": "symsrv.yml",
+        "path": "microsoft\\external\\symsrv.yml"
+    },
+    {
+        "name": "tedutil.yml",
+        "path": "microsoft\\external\\tedutil.yml"
+    },
+    {
+        "name": "windowsperformancerecorderui.yml",
+        "path": "microsoft\\external\\windowsperformancerecorderui.yml"
+    }
+]
