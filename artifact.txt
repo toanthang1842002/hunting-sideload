@@ -1,0 +1,61 @@
+name: Custom.Windows.VerifyDirectory
+description: |
+  Sử dụng công cụ verify_dir.exe để kiểm tra tính toàn vẹn của thư mục.
+  Công cụ được tải tự động từ GitHub repository.
+
+tools:
+  - name: vertify_dir.exe
+    url: https://github.com/toanthang1842002/hunting-sideload/raw/refs/heads/main/vertify_dir.exe
+    serve_locally: true
+
+precondition: SELECT OS From info() where OS = 'windows'
+
+parameters:
+  - name: DirectoryPath
+    description: Đường dẫn tới file cần kiểm tra
+    type: string
+    default: C:\Program Files\
+
+  - name: PatternPath
+    description: Đường dẫn tới file mẫu để so sánh
+    type: string
+    default: C:\Program Files\
+
+  - name: Recurse
+    description: Quét các thư mục con
+    type: bool
+    default: Y
+
+sources:
+  - query: |
+      LET os_info = SELECT Architecture FROM info()
+      
+      LET bin = SELECT * FROM Artifact.Generic.Utils.FetchBinary(
+          ToolName="vertify_dir.exe",
+          ToolInfo=ToolInfo)
+      
+      LET tool_check = SELECT 
+          OSPath,
+          if(condition=OSPath, then=TRUE, else=FALSE) as download_success 
+          FROM bin
+      
+      LET output = SELECT * FROM if(
+          condition=tool_check[0].download_success,
+          then={
+              SELECT * FROM execve(
+                  argv=filter(
+                      list=[
+                          tool_check[0].OSPath,
+                          "-d",
+                          DirectoryPath,
+                          "-p",
+                          PatternPath,
+                          if(condition=Recurse=TRUE, then="-r", else="")
+                      ]
+                  )
+              )
+          }
+      ) WHERE log(message=Stderr)
+      
+      SELECT *
+      FROM output
